@@ -1,4 +1,3 @@
-import React from 'react';
 import CurrencyConverter from './pages/CurrencyConverter'; // Adjust the path as needed
 import { Provider } from 'react-redux';
 import { store } from './components/store'; // Adjust the path as needed
